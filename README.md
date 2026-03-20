@@ -13,7 +13,7 @@ I’m a **Computer Science student and aspiring Full-Stack Developer** passionat
 ---
 
 ### 🚀 Projects
-1. **Student Reading Comprehension System** – Python + RestAPI  
+1. **Student Reading Comprehension System** – Python + JavaScript  
    Developed an interactive app to help students improve reading comprehension. Built backend logic to track progress, store quizzes in a database, and handle user authentication.
 
 2. **Simple REST API** – Spring Boot  

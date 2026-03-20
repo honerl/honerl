@@ -1,16 +1,15 @@
 ## Hi there 👋
+Hi, I'm John 👋
 
-<!--
-**honerl/honerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+- Java | Spring Boot
+- C# | .NET
+- HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+🚀 Projects:
+- Student Management System (Java + MySQL)
+- Simple REST API (Spring Boot)
+- Portfolio Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+LinkedIn:  https://www.linkedin.com/in/john-earl-echavez-73990a273/?skipRedirect=true
